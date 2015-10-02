@@ -14,7 +14,7 @@ The first line is omitted.
 
 **LAT** ellipsoidal latitude (in decimal degrees, eg. 47.413047 or in degrees, minutes, seconds, eg. 47 24 46.97 with spaces between)
 
-**LON** ellipsoidal longitude (in decimal degrees, eg. 47.413047 or in degrees, minutes, seconds, eg. 47 24 46.97 with spaces between)
+**LON** ellipsoidal longitude (in decimal degrees, eg. 8.182311 or in degrees, minutes, seconds, eg. 8 10 56.32 with spaces between)
 
 **ALT** Altitude (in meters)
 
