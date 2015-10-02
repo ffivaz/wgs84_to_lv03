@@ -3,7 +3,7 @@ A small PERL script to convert WGS84 (DD or DMS) coordinates to LV03 (swiss) usi
 
 ## Usage
 
-<code> wgs84_to_lv03 infile outfile [dd or ddm] </code>
+<code> wgs84_to_lv03.pl infile outfile [dd or ddm] </code>
 
 All three arguments are compulsory
 
